@@ -8,12 +8,6 @@
 ## **Overview**
 This project aims to recognize emotions from speech using a Long Short Term Memory (LSTM) model. It was developed during my internship as a Machine Learning Engineer at CodeAlpha.
 
-## **Demo**
-Check out the demo video showcasing the web app's capabilities in recognizing emotions from audio files!
-
-
-https://github.com/user-attachments/assets/37a8fd29-6b5a-4e83-8121-c76826e0c988
-
 
 
 ## **Features**
