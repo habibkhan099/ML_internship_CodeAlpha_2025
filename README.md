@@ -53,6 +53,3 @@ The projects in this repository were inspired by various open-source machine lea
 This project is licensed under the GNU General Public **License v3.0**. See the LICENSE file for details.
 
 Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
-
-**Habib Ullah**<br>
-Machine Learning Intern.
