@@ -41,7 +41,7 @@ The projects in this repository were inspired by various open-source machine lea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Machine-Learning-Internship-Projects.git
+   git clone https://github.com/habibkhan099/Machine-Learning-Internship-Projects.git
 
 2. Navigate to the project folder you're interested in:
     ```bash
